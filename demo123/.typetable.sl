@@ -8,5 +8,7 @@ creator.gui.screen qmlf5783699cdb74f959180723e54705646 "login"
 			status = dontcare;
 		creator.gui.button qmld844e759049d43de82d6c16052bc5937 "login"
 			status = dontcare;
+		creator.gui.button qmlf10a8d4172e2408d8bcfbc52d63fd6e7 "CANCEL"
+			status = dontcare;
 	}
 }

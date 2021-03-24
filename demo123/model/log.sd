@@ -20,6 +20,14 @@
             <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="log.sl#qmld844e759049d43de82d6c16052bc5937"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IiGVFIyEEeu9B-eIveeFdw" x="37" y="64"/>
           </children>
+          <children xmi:type="notation:Node" xmi:id="_WaGKMIyFEeu9B-eIveeFdw" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_WaGKNYyFEeu9B-eIveeFdw" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WaGKMYyFEeu9B-eIveeFdw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_WaGKMoyFEeu9B-eIveeFdw" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_WaGKM4yFEeu9B-eIveeFdw"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="log.sl#qmlf10a8d4172e2408d8bcfbc52d63fd6e7"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WaGKNIyFEeu9B-eIveeFdw" x="85" y="64"/>
+          </children>
         </children>
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_EsKlUYyEEeu9B-eIveeFdw"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_EsKlUoyEEeu9B-eIveeFdw" fontName="Segoe UI"/>
